@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # README
 
 This README would normally document whatever steps are necessary to get the
@@ -22,3 +23,6 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+=======
+# jobs_app
+>>>>>>> c564e3bc6b00f36fd1b69e5fd6c2cbb15ec68e10
